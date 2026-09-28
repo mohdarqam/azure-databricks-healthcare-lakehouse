@@ -1,0 +1,28 @@
+# Secrets / local
+*.env
+.env
+secrets.*
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Databricks / Spark
+spark-warehouse/
+metastore_db/
+derby.log
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Data (keep only curated samples in data/sample/)
+data/raw/
+*.parquet

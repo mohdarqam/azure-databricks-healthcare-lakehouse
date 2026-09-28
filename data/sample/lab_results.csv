@@ -1,0 +1,7 @@
+result_id,patient_id,test_name,result_value,unit,result_date
+9001,5001,HbA1c,6.4,%,2026-01-10
+9002,5002,LDL Cholesterol,3.1,mmol/L,2026-01-11
+9003,5003,Haemoglobin,12.8,g/dL,2026-01-12
+9004,5004,Creatinine,84,umol/L,2026-01-13
+9005,5005,TSH,2.1,mIU/L,2026-01-14
+9006,5001,LDL Cholesterol,2.7,mmol/L,2026-02-10

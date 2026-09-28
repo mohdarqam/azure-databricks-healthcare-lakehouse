@@ -1,0 +1,5 @@
+provider_id,provider_name,plan_type,network_tier
+7001,Shield Health Ireland,PPO,Tier 1
+7002,Emerald Cover,HMO,Tier 2
+7003,Atlantic Assure,PPO,Tier 1
+7004,Liffey Mutual,EPO,Tier 3
